@@ -13,7 +13,7 @@ import time
 from pathlib import Path
 from typing import Any, Callable
 from urllib.error import HTTPError, URLError
-from urllib.parse import quote
+from urllib.parse import quote, urlsplit
 from urllib.request import Request, urlopen
 
 
@@ -96,6 +96,12 @@ def fetch_starred(
     entries: list[dict[str, Any]] = []
 
     while next_url:
+        parsed_url = urlsplit(next_url)
+        if (
+            parsed_url.scheme != "https"
+            or parsed_url.netloc.lower() != "api.github.com"
+        ):
+            raise SyncError("GitHub API returned an untrusted pagination URL.")
         if next_url in seen_urls:
             raise SyncError("GitHub API returned a pagination loop.")
         seen_urls.add(next_url)
@@ -155,7 +161,6 @@ def normalize_entry(entry: dict[str, Any]) -> dict[str, Any]:
         "archived": bool(repo.get("archived", False)),
         "fork": bool(repo.get("fork", False)),
         "starred_at": entry.get("starred_at"),
-        "pushed_at": repo.get("pushed_at"),
     }
 
 

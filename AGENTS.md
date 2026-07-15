@@ -21,6 +21,7 @@
 .
 ├─ .github/workflows/sync-stars.yml  # 定时同步与自动提交
 ├─ scripts/sync_stars.py             # API 获取、规范化和渲染
+├─ tests/test_project_configuration.py # 工作流配置契约测试
 ├─ tests/test_sync_stars.py          # 无网络单元测试
 ├─ README.md                         # 项目说明与生成的明细
 └─ stars.json                        # 结构化快照
@@ -46,13 +47,13 @@ python scripts/sync_stars.py --username 434308421
 ## 关键约定
 
 - README 中 `stars:start` 与 `stars:end` 标记之间为自动生成区域，不手动编辑。
-- 不保存 `stargazers_count` 或同步时间，避免数据未实质变化时产生提交。
+- 不保存 `stargazers_count`、`pushed_at` 或同步时间，避免数据未实质变化时产生提交。
 - 全量快照代表当前状态，不保留已取消 Star 的历史记录。
 - 不新增运行时依赖；若确有必要修改依赖策略，应先说明影响。
 
 ## 当前状态
 
-已完成初始实现，等待 GitHub Actions 首次同步真实 Star 数据。
+已上线运行，并已通过 GitHub Actions 完成首次真实 Star 数据同步。
 
 ## 常见注意事项
 
