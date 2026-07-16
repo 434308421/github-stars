@@ -1,8 +1,24 @@
 {
   "schema_version": 1,
   "owner": "434308421",
-  "count": 343,
+  "count": 344,
   "stars": [
+    {
+      "repository_id": 1146425139,
+      "full_name": "BenedictKing/ccx",
+      "html_url": "https://github.com/BenedictKing/ccx",
+      "description": "Claude / Codex / Gemini API Proxy - CCX",
+      "language": "Go",
+      "topics": [
+        "claude",
+        "codex",
+        "gemini"
+      ],
+      "license": "MIT",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-16T11:27:10Z"
+    },
     {
       "repository_id": 1294739070,
       "full_name": "zhuhaiuk/free-nodes",
@@ -417,7 +433,7 @@
       "repository_id": 1230718069,
       "full_name": "chAng-L19/codex-redteam-mode",
       "html_url": "https://github.com/chAng-L19/codex-redteam-mode",
-      "description": "针对于红队攻击思维做出的red team模式(破限项目，封号概不负责）##可自行适配其他AI",
+      "description": "针对于红队攻击思维做出的red team模式(破限项目，封号概不负责）##可自行适配其他AI。项目问题请提issue",
       "language": "Python",
       "topics": [
         "ai",

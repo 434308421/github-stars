@@ -3,12 +3,13 @@
 本仓库自动同步 GitHub 用户 [`434308421`](https://github.com/434308421) 当前 Star 的公开仓库。
 
 <!-- stars:start -->
-当前收录 **343** 个公开 Star 仓库，按 Star 时间倒序排列。
+当前收录 **344** 个公开 Star 仓库，按 Star 时间倒序排列。
 
 > 本区域由 GitHub Actions 自动生成，请勿手动编辑。
 
 | Star 日期 | 仓库 | 简介 | 语言 | Topics | License |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-16 | [BenedictKing/ccx](https://github.com/BenedictKing/ccx) | Claude / Codex / Gemini API Proxy - CCX | Go | `claude`, `codex`, `gemini` | MIT |
 | 2026-07-15 | [zhuhaiuk/free-nodes](https://github.com/zhuhaiuk/free-nodes) | 每小时自动更新的免费节点订阅，支持 Clash、Mihomo、V2Ray、Trojan、Shadowrocket 等客户端测试使用。 | HTML | `clash`, `free-nodes`, `free-proxy`, `mihomo`, `proxy`, `shadowrocket`, `shadowsocks`, `subscription`, `trojan`, `v2ray`, `vless`, `vmess` | — |
 | 2026-07-15 | [chen08209/FlClash](https://github.com/chen08209/FlClash) | A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. | Dart | `clash`, `clash-meta`, `flutter`, `hysteria`, `multi-platform`, `proxy`, `v2ray`, `vless`, `vpn` | GPL-3.0 |
 | 2026-07-15 | [RongleCat/grok-go](https://github.com/RongleCat/grok-go) | Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。 | Rust | — | MIT |
@@ -32,7 +33,7 @@
 | 2026-07-08 | [zhiyiYo/Fluent-M3U8](https://github.com/zhiyiYo/Fluent-M3U8) | A cross-platform m3u8/mpd downloader based on PySide6 and QFluentWidgets. | Python | `app`, `dash`, `fluent`, `gui`, `live`, `m3u8`, `m3u8-downloader`, `mpd`, `pyside`, `pyside6`, `qt` | GPL-3.0 |
 | 2026-07-08 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Chrome DevTools for coding agents | TypeScript | `browser`, `chrome`, `chrome-devtools`, `debugging`, `devtools`, `mcp`, `mcp-server`, `puppeteer` | Apache-2.0 |
 | 2026-07-08 | [gitlayzer/sealtun](https://github.com/gitlayzer/sealtun) | — | Go | — | — |
-| 2026-07-08 | [chAng-L19/codex-redteam-mode](https://github.com/chAng-L19/codex-redteam-mode) | 针对于红队攻击思维做出的red team模式(破限项目，封号概不负责）##可自行适配其他AI | Python | `ai`, `ai-hacking`, `hacking-tool`, `penetration-testing`, `red-team`, `redteam`, `redteam-tools` | MIT |
+| 2026-07-08 | [chAng-L19/codex-redteam-mode](https://github.com/chAng-L19/codex-redteam-mode) | 针对于红队攻击思维做出的red team模式(破限项目，封号概不负责）##可自行适配其他AI。项目问题请提issue | Python | `ai`, `ai-hacking`, `hacking-tool`, `penetration-testing`, `red-team`, `redteam`, `redteam-tools` | MIT |
 | 2026-07-08 | [lssuzie/cc-switch](https://github.com/lssuzie/cc-switch) | CC Switch MiMo 修复版 — 修复 Codex + MiMo 多轮对话卡死、思维泄漏等问题 (基于上游 v3.16.3) | Rust | `bugfix`, `cc-switch`, `claude-code`, `codex`, `fork`, `mi-fix`, `mimo`, `tauri` | MIT |
 | 2026-07-07 | [getpaseo/paseo](https://github.com/getpaseo/paseo) | Orchestrate multiple coding agents from desktop and mobile | TypeScript | `ade`, `agents`, `android`, `claude-code`, `codex`, `copilot`, `developer-tools`, `hermes`, `ios`, `linux`, `mobile`, `opencode`, `orchestration`, `pi`, `windows` | Other |
 | 2026-07-06 | [mibgb65-cloud/OmniProxy](https://github.com/mibgb65-cloud/OmniProxy) | 本地 AI API 令牌调度、额度观测与桌面代理网关，支持多账号、多厂商、失败重试、请求历史和系统托盘常驻。 Local AI API token scheduler, quota monitor, and desktop proxy gateway for OpenAI-compatible, Anthropic, DeepSeek, Kimi, and Xiaomi MiMo   workflows. | Go | `ai-proxy`, `api-gateway`, `local-proxy` | — |
