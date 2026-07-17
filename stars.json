@@ -1,8 +1,32 @@
 {
   "schema_version": 1,
   "owner": "434308421",
-  "count": 346,
+  "count": 348,
   "stars": [
+    {
+      "repository_id": 1239928176,
+      "full_name": "RyensX/OpenCodex",
+      "html_url": "https://github.com/RyensX/OpenCodex",
+      "description": "OpenCodex is a middleware layer for Codex Desktop. It lets you use a phone, tablet, or another computer to access and operate Codex on a target machine through a browser, making it suitable for continuous AI Coding in LAN or remote LAN environments.",
+      "language": "JavaScript",
+      "topics": [],
+      "license": "AGPL-3.0",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-17T04:45:07Z"
+    },
+    {
+      "repository_id": 1148960257,
+      "full_name": "zhukunpenglinyutong/desktop-cc-gui",
+      "html_url": "https://github.com/zhukunpenglinyutong/desktop-cc-gui",
+      "description": "CC GUI Client (VibeCoding Platform Designed for Developers)",
+      "language": "TypeScript",
+      "topics": [],
+      "license": "MIT",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-17T04:08:19Z"
+    },
     {
       "repository_id": 1169786040,
       "full_name": "Mxucc/xianyu-super-butler",

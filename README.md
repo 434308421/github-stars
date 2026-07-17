@@ -3,12 +3,14 @@
 本仓库自动同步 GitHub 用户 [`434308421`](https://github.com/434308421) 当前 Star 的公开仓库。
 
 <!-- stars:start -->
-当前收录 **346** 个公开 Star 仓库，按 Star 时间倒序排列。
+当前收录 **348** 个公开 Star 仓库，按 Star 时间倒序排列。
 
 > 本区域由 GitHub Actions 自动生成，请勿手动编辑。
 
 | Star 日期 | 仓库 | 简介 | 语言 | Topics | License |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-17 | [RyensX/OpenCodex](https://github.com/RyensX/OpenCodex) | OpenCodex is a middleware layer for Codex Desktop. It lets you use a phone, tablet, or another computer to access and operate Codex on a target machine through a browser, making it suitable for continuous AI Coding in LAN or remote LAN environments. | JavaScript | — | AGPL-3.0 |
+| 2026-07-17 | [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) | CC GUI Client (VibeCoding Platform Designed for Developers) | TypeScript | — | MIT |
 | 2026-07-17 | [Mxucc/xianyu-super-butler](https://github.com/Mxucc/xianyu-super-butler) | 闲鱼超级管家是在 xianyu-auto-reply 基础上的二次开发版本，保留了原项目的所有核心功能，并对前端 UI 进行了全面重构，带来更加现代化、专业化的使用体验。 | Python | — | — |
 | 2026-07-17 | [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta. | TypeScript | `agent`, `ai`, `ai-agent`, `claude`, `cli`, `developer-tools`, `local-first`, `mcp`, `mcp-server`, `metasearch`, `model-context-protocol`, `nodejs`, `privacy`, `rag`, `search`, `search-engine`, `typescript`, `web-crawler`, `web-scraping`, `web-search` | Other |
 | 2026-07-16 | [BenedictKing/ccx](https://github.com/BenedictKing/ccx) | Claude / Codex / Gemini API Proxy - CCX | Go | `claude`, `codex`, `gemini` | MIT |
