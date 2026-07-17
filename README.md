@@ -3,12 +3,14 @@
 本仓库自动同步 GitHub 用户 [`434308421`](https://github.com/434308421) 当前 Star 的公开仓库。
 
 <!-- stars:start -->
-当前收录 **352** 个公开 Star 仓库，按 Star 时间倒序排列。
+当前收录 **354** 个公开 Star 仓库，按 Star 时间倒序排列。
 
 > 本区域由 GitHub Actions 自动生成，请勿手动编辑。
 
 | Star 日期 | 仓库 | 简介 | 语言 | Topics | License |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-17 | [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 500 AI Machine learning Deep learning Computer vision NLP Projects with code | — | `artificial-intelligence`, `artificial-intelligence-projects`, `awesome`, `computer-vision`, `computer-vision-project`, `data-science`, `deep-learning`, `deep-learning-project`, `machine-learning`, `machine-learning-projects`, `nlp`, `nlp-projects`, `python` | — |
+| 2026-07-17 | [oil-oil/codex-team-mode](https://github.com/oil-oil/codex-team-mode) | A Codex Skill for coordinating focused custom subagents across development, research, analysis, documents, data, and content work. | Python | `agent-skill`, `ai-agents`, `codex`, `developer-tools`, `subagents` | MIT |
 | 2026-07-17 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | Skills for Design Engineers. | — | — | MIT |
 | 2026-07-17 | [inbjo/MirrorProxy](https://github.com/inbjo/MirrorProxy) | All-in-one mirror acceleration | Rust | — | MIT |
 | 2026-07-17 | [huanyingtianhe/agents-chat](https://github.com/huanyingtianhe/agents-chat) | An open-source AI agent platform for orchestrating, and collaborating with multiple AI agents. Connect seamlessly to GitHub Copilot CLI, Claude Code, Codex, and any ACP-compatible agent. | TypeScript | `agentic-ai`, `ai`, `ai-agents` | — |

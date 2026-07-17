@@ -1,8 +1,52 @@
 {
   "schema_version": 1,
   "owner": "434308421",
-  "count": 352,
+  "count": 354,
   "stars": [
+    {
+      "repository_id": 326174741,
+      "full_name": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+      "html_url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+      "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+      "language": null,
+      "topics": [
+        "artificial-intelligence",
+        "artificial-intelligence-projects",
+        "awesome",
+        "computer-vision",
+        "computer-vision-project",
+        "data-science",
+        "deep-learning",
+        "deep-learning-project",
+        "machine-learning",
+        "machine-learning-projects",
+        "nlp",
+        "nlp-projects",
+        "python"
+      ],
+      "license": null,
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-17T15:01:11Z"
+    },
+    {
+      "repository_id": 1303504717,
+      "full_name": "oil-oil/codex-team-mode",
+      "html_url": "https://github.com/oil-oil/codex-team-mode",
+      "description": "A Codex Skill for coordinating focused custom subagents across development, research, analysis, documents, data, and content work.",
+      "language": "Python",
+      "topics": [
+        "agent-skill",
+        "ai-agents",
+        "codex",
+        "developer-tools",
+        "subagents"
+      ],
+      "license": "MIT",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-17T14:53:14Z"
+    },
     {
       "repository_id": 1183325896,
       "full_name": "emilkowalski/skills",
