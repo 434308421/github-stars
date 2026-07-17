@@ -1,8 +1,77 @@
 {
   "schema_version": 1,
   "owner": "434308421",
-  "count": 348,
+  "count": 352,
   "stars": [
+    {
+      "repository_id": 1183325896,
+      "full_name": "emilkowalski/skills",
+      "html_url": "https://github.com/emilkowalski/skills",
+      "description": "Skills for Design Engineers.",
+      "language": null,
+      "topics": [],
+      "license": "MIT",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-17T13:52:43Z"
+    },
+    {
+      "repository_id": 1301251513,
+      "full_name": "inbjo/MirrorProxy",
+      "html_url": "https://github.com/inbjo/MirrorProxy",
+      "description": "All-in-one mirror acceleration",
+      "language": "Rust",
+      "topics": [],
+      "license": "MIT",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-17T13:40:15Z"
+    },
+    {
+      "repository_id": 1245369970,
+      "full_name": "huanyingtianhe/agents-chat",
+      "html_url": "https://github.com/huanyingtianhe/agents-chat",
+      "description": "An open-source AI agent platform for orchestrating, and collaborating with multiple AI agents. Connect seamlessly to GitHub Copilot CLI, Claude Code, Codex, and any ACP-compatible agent.",
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "ai-agents"
+      ],
+      "license": null,
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-17T13:38:01Z"
+    },
+    {
+      "repository_id": 1153416852,
+      "full_name": "xintaofei/codeg",
+      "html_url": "https://github.com/xintaofei/codeg",
+      "description": "Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker.",
+      "language": "TypeScript",
+      "topics": [
+        "acp",
+        "agent",
+        "claude-code",
+        "cline",
+        "code-generation",
+        "codebuddy",
+        "codex",
+        "gemini-cli",
+        "grok-build",
+        "gui",
+        "hermes-agent",
+        "kimi-code",
+        "openclaw",
+        "opencode",
+        "pi",
+        "worktree"
+      ],
+      "license": "Apache-2.0",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-17T13:37:09Z"
+    },
     {
       "repository_id": 1239928176,
       "full_name": "RyensX/OpenCodex",
@@ -1484,7 +1553,7 @@
       "repository_id": 1148788086,
       "full_name": "mattpocock/skills",
       "html_url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "topics": [],
       "license": "MIT",

@@ -3,12 +3,16 @@
 本仓库自动同步 GitHub 用户 [`434308421`](https://github.com/434308421) 当前 Star 的公开仓库。
 
 <!-- stars:start -->
-当前收录 **348** 个公开 Star 仓库，按 Star 时间倒序排列。
+当前收录 **352** 个公开 Star 仓库，按 Star 时间倒序排列。
 
 > 本区域由 GitHub Actions 自动生成，请勿手动编辑。
 
 | Star 日期 | 仓库 | 简介 | 语言 | Topics | License |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-17 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | Skills for Design Engineers. | — | — | MIT |
+| 2026-07-17 | [inbjo/MirrorProxy](https://github.com/inbjo/MirrorProxy) | All-in-one mirror acceleration | Rust | — | MIT |
+| 2026-07-17 | [huanyingtianhe/agents-chat](https://github.com/huanyingtianhe/agents-chat) | An open-source AI agent platform for orchestrating, and collaborating with multiple AI agents. Connect seamlessly to GitHub Copilot CLI, Claude Code, Codex, and any ACP-compatible agent. | TypeScript | `agentic-ai`, `ai`, `ai-agents` | — |
+| 2026-07-17 | [xintaofei/codeg](https://github.com/xintaofei/codeg) | Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker. | TypeScript | `acp`, `agent`, `claude-code`, `cline`, `code-generation`, `codebuddy`, `codex`, `gemini-cli`, `grok-build`, `gui`, `hermes-agent`, `kimi-code`, `openclaw`, `opencode`, `pi`, `worktree` | Apache-2.0 |
 | 2026-07-17 | [RyensX/OpenCodex](https://github.com/RyensX/OpenCodex) | OpenCodex is a middleware layer for Codex Desktop. It lets you use a phone, tablet, or another computer to access and operate Codex on a target machine through a browser, making it suitable for continuous AI Coding in LAN or remote LAN environments. | JavaScript | — | AGPL-3.0 |
 | 2026-07-17 | [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) | CC GUI Client (VibeCoding Platform Designed for Developers) | TypeScript | — | MIT |
 | 2026-07-17 | [Mxucc/xianyu-super-butler](https://github.com/Mxucc/xianyu-super-butler) | 闲鱼超级管家是在 xianyu-auto-reply 基础上的二次开发版本，保留了原项目的所有核心功能，并对前端 UI 进行了全面重构，带来更加现代化、专业化的使用体验。 | Python | — | — |
@@ -89,7 +93,7 @@
 | 2026-06-01 | [localsend/localsend](https://github.com/localsend/localsend) | An open-source cross-platform alternative to AirDrop | Dart | `dart`, `file-sharing`, `flutter`, `flutter-apps` | Apache-2.0 |
 | 2026-06-01 | [Ariestar/obsidian-dragger](https://github.com/Ariestar/obsidian-dragger) | An Obsidian plugin for dragging and rearranging any block. | TypeScript | `drag`, `markdown`, `npm`, `obsidian`, `obsidian-plugin`, `plugin` | MIT |
 | 2026-06-01 | [BCS1037/notion-block](https://github.com/BCS1037/notion-block) | Bring Notion-like block interactions to Obsidian's Live Preview mode.   | TypeScript | — | MIT |
-| 2026-06-01 | [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .claude directory. | Shell | — | MIT |
+| 2026-06-01 | [mattpocock/skills](https://github.com/mattpocock/skills) | Skills for Real Engineers. Straight from my .agents directory. | Shell | — | MIT |
 | 2026-06-01 | [marktext/marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | TypeScript | `dark-mode`, `editor`, `electron`, `focus-mode`, `latex`, `linux`, `mac`, `macos`, `markdown`, `marktext`, `source-code`, `typewriter-mode`, `vue`, `windows` | MIT |
 | 2026-06-01 | [sumruler/obsidian-theme-phycat](https://github.com/sumruler/obsidian-theme-phycat) | A colorful theme for Obsidian | CSS | — | MIT |
 | 2026-05-31 | [byoungd/up](https://github.com/byoungd/up) | An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语 | JavaScript | `chinese`, `english-learning`, `tutorial` | — |
