@@ -353,11 +353,15 @@
       "repository_id": 1073538908,
       "full_name": "chenyme/grok2api",
       "html_url": "https://github.com/chenyme/grok2api",
-      "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
+      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
       "language": "Go",
       "topics": [
         "grok",
-        "grok-imagine"
+        "grok-build",
+        "grok-console",
+        "grok-imagine",
+        "grok-video",
+        "grok-web"
       ],
       "license": "MIT",
       "archived": false,

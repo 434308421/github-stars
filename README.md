@@ -37,7 +37,7 @@ python -m py_compile scripts/sync_stars.py
 | 2026-07-14 | [St0ff3l/fileterm](https://github.com/St0ff3l/fileterm) | FileTerm (formerly TermDock): a modern desktop remote workspace for SSH, SFTP, and FTP. • FileTerm（原 TermDock）：面向 SSH、SFTP 和 FTP 的现代桌面远程工作台。 | TypeScript | `desktop-application`, `devops-tools`, `ftp`, `ftp-client`, `monaco-editor`, `react`, `rust`, `sftp`, `sftp-client`, `ssh`, `ssh-client`, `sysadmin-tools`, `tauri`, `terminal`, `typescript`, `xterm` | MIT |
 | 2026-07-13 | [akihitohyh/xai-autoban](https://github.com/akihitohyh/xai-autoban) | CLIProxyAPI plugin that automatically isolates unhealthy xAI credentials and provides a recovery dashboard. | Go | — | MIT |
 | 2026-07-13 | [charleslee8266/cardnav-web](https://github.com/charleslee8266/cardnav-web) | 卡网大全：一站式 AI 大模型账号购买导航。聚合 AI 中转站、卡网、官方订阅比价，还有模型排行、使用指南、实用工具，帮你少踩坑，少花钱。 | TypeScript | `ai`, `claude`, `codex`, `cursor`, `gemini`, `gpt`, `llm` | AGPL-3.0 |
-| 2026-07-13 | [chenyme/grok2api](https://github.com/chenyme/grok2api) | 面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关 | Go | `grok`, `grok-imagine` | MIT |
+| 2026-07-13 | [chenyme/grok2api](https://github.com/chenyme/grok2api) | Multi-account API gateway for Grok Build, Grok Web, and Grok Console | Go | `grok`, `grok-build`, `grok-console`, `grok-imagine`, `grok-video`, `grok-web` | MIT |
 | 2026-07-13 | [ht426/skillseed](https://github.com/ht426/skillseed) | 一个 skill 工厂 —— 脚手架、触发校验、自我进化。基于 Agent Skills 开放标准。 | Shell | — | MIT |
 | 2026-07-13 | [iebb/mithka](https://github.com/iebb/mithka) | A Telegram client, but déjà vu | Dart | — | — |
 | 2026-07-13 | [Re0XIAOPA/AutoScrapeFreeNodes](https://github.com/Re0XIAOPA/AutoScrapeFreeNodes) | AutoScrapeFreeNodes - 自动抓取免费节点 | JavaScript | — | GPL-3.0 |
