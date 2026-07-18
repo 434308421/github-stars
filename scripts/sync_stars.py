@@ -135,11 +135,32 @@ def _license_identifier(repo: dict[str, Any]) -> str | None:
     return str(name) if name else None
 
 
+def _repository_url(repo: dict[str, Any], full_name: str) -> str:
+    expected_url = f"https://github.com/{full_name}"
+    html_url = repo.get("html_url")
+    if not html_url:
+        return expected_url
+
+    url = str(html_url)
+    parsed_url = urlsplit(url)
+    expected_path = f"/{full_name}"
+    if (
+        parsed_url.scheme != "https"
+        or parsed_url.netloc.lower() != "github.com"
+        or parsed_url.path.rstrip("/") != expected_path
+        or parsed_url.query
+        or parsed_url.fragment
+    ):
+        raise SyncError("A starred repository has an untrusted html_url.")
+    return url.rstrip("/")
+
+
 def normalize_entry(entry: dict[str, Any]) -> dict[str, Any]:
     """Reduce an API entry to stable fields used by this repository."""
     repo = entry.get("repo", entry)
     if not isinstance(repo, dict) or not repo.get("full_name"):
         raise SyncError("A starred repository is missing its full_name.")
+    full_name = str(repo["full_name"])
 
     topics = repo.get("topics")
     normalized_topics = (
@@ -150,10 +171,8 @@ def normalize_entry(entry: dict[str, Any]) -> dict[str, Any]:
 
     return {
         "repository_id": repo.get("id"),
-        "full_name": str(repo["full_name"]),
-        "html_url": str(
-            repo.get("html_url") or f"https://github.com/{repo['full_name']}"
-        ),
+        "full_name": full_name,
+        "html_url": _repository_url(repo, full_name),
         "description": repo.get("description"),
         "language": repo.get("language"),
         "topics": normalized_topics,

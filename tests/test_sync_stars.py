@@ -128,6 +128,33 @@ class FetchStarredTests(unittest.TestCase):
         self.assertEqual(2, len(opener.requests))
         self.assertEqual([1], delays)
 
+    def test_rejects_pagination_loops_before_repeating_request(self):
+        first_page = (
+            "https://api.github.com/users/434308421/starred?per_page=100&page=1"
+        )
+        opener = FakeOpener([FakeResponse([], f'<{first_page}>; rel="next"')])
+
+        with self.assertRaises(sync_stars.SyncError):
+            sync_stars.fetch_starred(
+                "434308421",
+                "test-token",
+                opener=opener,
+                sleeper=lambda _: None,
+            )
+
+        self.assertEqual(1, len(opener.requests))
+
+    def test_rejects_unexpected_response_shape(self):
+        opener = FakeOpener([FakeResponse({"message": "rate limited"})])
+
+        with self.assertRaises(sync_stars.SyncError):
+            sync_stars.fetch_starred(
+                "434308421",
+                "test-token",
+                opener=opener,
+                sleeper=lambda _: None,
+            )
+
 
 class SnapshotTests(unittest.TestCase):
     def test_snapshot_is_stable_and_sorted_by_star_time(self):
@@ -159,6 +186,16 @@ class SnapshotTests(unittest.TestCase):
         self.assertIn("owner/repo（已归档）", rendered)
         self.assertIn("2026-07-15", rendered)
 
+    def test_rejects_untrusted_repository_url(self):
+        entry = api_entry(
+            "owner/repo",
+            "2026-07-15T00:00:00Z",
+            html_url="https://example.invalid/owner/repo",
+        )
+
+        with self.assertRaises(sync_stars.SyncError):
+            sync_stars.build_snapshot("434308421", [entry])
+
 
 class FileUpdateTests(unittest.TestCase):
     def test_replaces_only_the_generated_readme_section(self):
@@ -174,6 +211,25 @@ class FileUpdateTests(unittest.TestCase):
             f"{sync_stars.START_MARKER}\nnew\n{sync_stars.END_MARKER}\n\nFooter\n",
             updated,
         )
+
+    def test_rejects_duplicate_readme_markers(self):
+        original = (
+            "# Header\n\n"
+            f"{sync_stars.START_MARKER}\nold\n{sync_stars.END_MARKER}\n"
+            f"{sync_stars.START_MARKER}\nold\n{sync_stars.END_MARKER}\n"
+        )
+
+        with self.assertRaises(sync_stars.SyncError):
+            sync_stars.replace_generated_section(original, "new")
+
+    def test_rejects_readme_markers_in_wrong_order(self):
+        original = (
+            "# Header\n\n"
+            f"{sync_stars.END_MARKER}\nold\n{sync_stars.START_MARKER}\n"
+        )
+
+        with self.assertRaises(sync_stars.SyncError):
+            sync_stars.replace_generated_section(original, "new")
 
     def test_write_text_if_changed_is_idempotent(self):
         with tempfile.TemporaryDirectory() as temp_dir:

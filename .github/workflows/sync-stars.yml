@@ -13,29 +13,52 @@ on:
       - "tests/**"
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
   group: sync-github-stars
   cancel-in-progress: false
 
 jobs:
-  sync:
+  test:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    env:
-      STAR_OWNER: "434308421"
-      GITHUB_TOKEN: ${{ github.token }}
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
       - name: Run tests
-        run: python3 -m unittest discover -s tests -v
+        run: python -m unittest discover -s tests -v
+
+  sync:
+    if: github.event_name != 'push'
+    needs: test
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    env:
+      STAR_OWNER: "434308421"
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
       - name: Synchronize starred repositories
-        run: python3 scripts/sync_stars.py --username "$STAR_OWNER"
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/sync_stars.py --username "$STAR_OWNER"
 
       - name: Commit changes
         shell: bash
@@ -49,4 +72,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md stars.json
           git commit -m "chore: sync starred repositories"
+          git pull --rebase origin "${GITHUB_REF_NAME:-main}"
           git push

@@ -2,6 +2,15 @@
 
 本仓库自动同步 GitHub 用户 [`434308421`](https://github.com/434308421) 当前 Star 的公开仓库。
 
+## 本地验证
+
+需要 Python 3.10+；GitHub Actions 固定使用 Python 3.12。
+
+```powershell
+python -m unittest discover -s tests -v
+python -m py_compile scripts/sync_stars.py
+```
+
 <!-- stars:start -->
 当前收录 **356** 个公开 Star 仓库，按 Star 时间倒序排列。
 

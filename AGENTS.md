@@ -10,7 +10,7 @@
 
 ## 技术栈
 
-- Python 3，仅使用标准库
+- Python 3.10+，CI 固定使用 Python 3.12，仅使用标准库
 - GitHub REST API
 - GitHub Actions
 - Python `unittest`
