@@ -1,8 +1,36 @@
 {
   "schema_version": 1,
   "owner": "434308421",
-  "count": 354,
+  "count": 356,
   "stars": [
+    {
+      "repository_id": 104337773,
+      "full_name": "1c7/chinese-independent-developer",
+      "html_url": "https://github.com/1c7/chinese-independent-developer",
+      "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+      "language": "Python",
+      "topics": [
+        "china",
+        "indie",
+        "indie-developer"
+      ],
+      "license": null,
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-18T04:41:29Z"
+    },
+    {
+      "repository_id": 1301067591,
+      "full_name": "Mxucc/cpa-account-config-manager",
+      "html_url": "https://github.com/Mxucc/cpa-account-config-manager",
+      "description": "cpa-account-config-manager",
+      "language": "Go",
+      "topics": [],
+      "license": "MIT",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-18T04:05:37Z"
+    },
     {
       "repository_id": 326174741,
       "full_name": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",

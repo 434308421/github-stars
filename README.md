@@ -3,12 +3,14 @@
 本仓库自动同步 GitHub 用户 [`434308421`](https://github.com/434308421) 当前 Star 的公开仓库。
 
 <!-- stars:start -->
-当前收录 **354** 个公开 Star 仓库，按 Star 时间倒序排列。
+当前收录 **356** 个公开 Star 仓库，按 Star 时间倒序排列。
 
 > 本区域由 GitHub Actions 自动生成，请勿手动编辑。
 
 | Star 日期 | 仓库 | 简介 | 语言 | Topics | License |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-18 | [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 | Python | `china`, `indie`, `indie-developer` | — |
+| 2026-07-18 | [Mxucc/cpa-account-config-manager](https://github.com/Mxucc/cpa-account-config-manager) | cpa-account-config-manager | Go | — | MIT |
 | 2026-07-17 | [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 500 AI Machine learning Deep learning Computer vision NLP Projects with code | — | `artificial-intelligence`, `artificial-intelligence-projects`, `awesome`, `computer-vision`, `computer-vision-project`, `data-science`, `deep-learning`, `deep-learning-project`, `machine-learning`, `machine-learning-projects`, `nlp`, `nlp-projects`, `python` | — |
 | 2026-07-17 | [oil-oil/codex-team-mode](https://github.com/oil-oil/codex-team-mode) | A Codex Skill for coordinating focused custom subagents across development, research, analysis, documents, data, and content work. | Python | `agent-skill`, `ai-agents`, `codex`, `developer-tools`, `subagents` | MIT |
 | 2026-07-17 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | Skills for Design Engineers. | — | — | MIT |
