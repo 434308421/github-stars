@@ -269,16 +269,17 @@
       "topics": [
         "desktop-application",
         "devops-tools",
-        "electron",
         "ftp",
         "ftp-client",
         "monaco-editor",
         "react",
+        "rust",
         "sftp",
         "sftp-client",
         "ssh",
         "ssh-client",
         "sysadmin-tools",
+        "tauri",
         "terminal",
         "typescript",
         "xterm"
