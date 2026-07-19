@@ -1,8 +1,37 @@
 {
   "schema_version": 1,
   "owner": "434308421",
-  "count": 356,
+  "count": 358,
   "stars": [
+    {
+      "repository_id": 1296294590,
+      "full_name": "glanderness/xhs-library",
+      "html_url": "https://github.com/glanderness/xhs-library",
+      "description": "Codex skill for ingesting XHS notes into Feishu Base",
+      "language": "Python",
+      "topics": [],
+      "license": "MIT",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-19T01:33:56Z"
+    },
+    {
+      "repository_id": 836976013,
+      "full_name": "mihomo-party-org/clash-party",
+      "html_url": "https://github.com/mihomo-party-org/clash-party",
+      "description": ":electron: Another Mihomo GUI. ",
+      "language": "TypeScript",
+      "topics": [
+        "clash",
+        "clash-meta",
+        "electron",
+        "mihomo"
+      ],
+      "license": "GPL-3.0",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-19T01:23:50Z"
+    },
     {
       "repository_id": 104337773,
       "full_name": "1c7/chinese-independent-developer",
@@ -776,7 +805,7 @@
       "repository_id": 1241362619,
       "full_name": "seakee/CPA-Manager-Plus",
       "html_url": "https://github.com/seakee/CPA-Manager-Plus",
-      "description": "Self-hosted AI gateway monitoring — track requests, cost, failures, quota, and account health for CPA / CLIProxyAPI and OpenAI-compatible gateways.",
+      "description": "A self-hosted CPA / CLIProxyAPI management panel and observability dashboard for requests, usage, cost, quota, failures, and account health.",
       "language": "TypeScript",
       "topics": [
         "ai-gateway",

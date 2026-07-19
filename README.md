@@ -12,12 +12,14 @@ python -m py_compile scripts/sync_stars.py
 ```
 
 <!-- stars:start -->
-当前收录 **356** 个公开 Star 仓库，按 Star 时间倒序排列。
+当前收录 **358** 个公开 Star 仓库，按 Star 时间倒序排列。
 
 > 本区域由 GitHub Actions 自动生成，请勿手动编辑。
 
 | Star 日期 | 仓库 | 简介 | 语言 | Topics | License |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-19 | [glanderness/xhs-library](https://github.com/glanderness/xhs-library) | Codex skill for ingesting XHS notes into Feishu Base | Python | — | MIT |
+| 2026-07-19 | [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) | :electron: Another Mihomo GUI.  | TypeScript | `clash`, `clash-meta`, `electron`, `mihomo` | GPL-3.0 |
 | 2026-07-18 | [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 | Python | `china`, `indie`, `indie-developer` | — |
 | 2026-07-18 | [Mxucc/cpa-account-config-manager](https://github.com/Mxucc/cpa-account-config-manager) | cpa-account-config-manager | Go | — | MIT |
 | 2026-07-17 | [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 500 AI Machine learning Deep learning Computer vision NLP Projects with code | — | `artificial-intelligence`, `artificial-intelligence-projects`, `awesome`, `computer-vision`, `computer-vision-project`, `data-science`, `deep-learning`, `deep-learning-project`, `machine-learning`, `machine-learning-projects`, `nlp`, `nlp-projects`, `python` | — |
@@ -60,7 +62,7 @@ python -m py_compile scripts/sync_stars.py
 | 2026-07-06 | [mibgb65-cloud/OmniProxy](https://github.com/mibgb65-cloud/OmniProxy) | 本地 AI API 令牌调度、额度观测与桌面代理网关，支持多账号、多厂商、失败重试、请求历史和系统托盘常驻。 Local AI API token scheduler, quota monitor, and desktop proxy gateway for OpenAI-compatible, Anthropic, DeepSeek, Kimi, and Xiaomi MiMo   workflows. | Go | `ai-proxy`, `api-gateway`, `local-proxy` | — |
 | 2026-07-02 | [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) | — | TypeScript | — | MIT |
 | 2026-07-01 | [stablyai/orca](https://github.com/stablyai/orca) | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. | TypeScript | `ade`, `agent-ide`, `ai-agents`, `claude-code`, `cli`, `codex`, `cursor-agent`, `devtools`, `ghostty`, `ide`, `mobile-app`, `opencode`, `orchestration`, `parallel-agents`, `pi`, `terminal`, `worktrees`, `yc-backed` | MIT |
-| 2026-07-01 | [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus) | Self-hosted AI gateway monitoring — track requests, cost, failures, quota, and account health for CPA / CLIProxyAPI and OpenAI-compatible gateways. | TypeScript | `ai-gateway`, `claude-code`, `cliproxyapi`, `codex`, `cost-analysis`, `cpa`, `gateway-monitoring`, `observability`, `openai`, `openai-compatible`, `quota-management`, `request-monitoring`, `usage-tracking` | MIT |
+| 2026-07-01 | [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus) | A self-hosted CPA / CLIProxyAPI management panel and observability dashboard for requests, usage, cost, quota, failures, and account health. | TypeScript | `ai-gateway`, `claude-code`, `cliproxyapi`, `codex`, `cost-analysis`, `cpa`, `gateway-monitoring`, `observability`, `openai`, `openai-compatible`, `quota-management`, `request-monitoring`, `usage-tracking` | MIT |
 | 2026-07-01 | [tradecatlabs/vibe-coding-cn](https://github.com/tradecatlabs/vibe-coding-cn) | Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南 | Python | `ai`, `ai-agent`, `ai-agents`, `ai-coding`, `ai-programming`, `chinese`, `claude-code`, `codex`, `cursor`, `developer-tools`, `gemini-cli`, `glue-coding`, `prompt-engineering`, `prompts`, `skills`, `tutorial`, `vibe-coding`, `workflow` | MIT |
 | 2026-07-01 | [LingJingMaster/Shadowrocket-Rules](https://github.com/LingJingMaster/Shadowrocket-Rules) | Shadowrocket_Rules | — | — | MIT |
 | 2026-06-29 | [TermoraDev/termora](https://github.com/TermoraDev/termora) | Termora is a terminal emulator and SSH client for Windows, macOS and Linux. | Kotlin | — | — |
