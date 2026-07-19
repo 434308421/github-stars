@@ -12,12 +12,13 @@ python -m py_compile scripts/sync_stars.py
 ```
 
 <!-- stars:start -->
-当前收录 **360** 个公开 Star 仓库，按 Star 时间倒序排列。
+当前收录 **361** 个公开 Star 仓库，按 Star 时间倒序排列。
 
 > 本区域由 GitHub Actions 自动生成，请勿手动编辑。
 
 | Star 日期 | 仓库 | 简介 | 语言 | Topics | License |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-19 | [Kuddev/nebula](https://github.com/Kuddev/nebula) | — | Rust | — | GPL-3.0 |
 | 2026-07-19 | [vrxiaojie/xai-autoban](https://github.com/vrxiaojie/xai-autoban) | 用于自动隔离持续返回错误的 xAI OAuth 凭据，避免 CPA 在大号池中逐个重试无效账号而显著拉长首 token 时间 | Go | — | MIT |
 | 2026-07-19 | [Super-YYQ/ccswitch-linuxdo-importer](https://github.com/Super-YYQ/ccswitch-linuxdo-importer) | — | JavaScript | — | MIT |
 | 2026-07-19 | [glanderness/xhs-library](https://github.com/glanderness/xhs-library) | Codex skill for ingesting XHS notes into Feishu Base | Python | — | MIT |

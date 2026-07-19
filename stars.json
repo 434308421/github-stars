@@ -1,8 +1,20 @@
 {
   "schema_version": 1,
   "owner": "434308421",
-  "count": 360,
+  "count": 361,
   "stars": [
+    {
+      "repository_id": 1289958986,
+      "full_name": "Kuddev/nebula",
+      "html_url": "https://github.com/Kuddev/nebula",
+      "description": null,
+      "language": "Rust",
+      "topics": [],
+      "license": "GPL-3.0",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-19T14:07:21Z"
+    },
     {
       "repository_id": 1300067446,
       "full_name": "vrxiaojie/xai-autoban",
