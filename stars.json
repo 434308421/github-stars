@@ -1,8 +1,20 @@
 {
   "schema_version": 1,
   "owner": "434308421",
-  "count": 359,
+  "count": 360,
   "stars": [
+    {
+      "repository_id": 1300067446,
+      "full_name": "vrxiaojie/xai-autoban",
+      "html_url": "https://github.com/vrxiaojie/xai-autoban",
+      "description": "用于自动隔离持续返回错误的 xAI OAuth 凭据，避免 CPA 在大号池中逐个重试无效账号而显著拉长首 token 时间",
+      "language": "Go",
+      "topics": [],
+      "license": "MIT",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-19T11:11:45Z"
+    },
     {
       "repository_id": 1304193213,
       "full_name": "Super-YYQ/ccswitch-linuxdo-importer",
