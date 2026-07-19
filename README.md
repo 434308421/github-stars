@@ -12,12 +12,13 @@ python -m py_compile scripts/sync_stars.py
 ```
 
 <!-- stars:start -->
-当前收录 **358** 个公开 Star 仓库，按 Star 时间倒序排列。
+当前收录 **359** 个公开 Star 仓库，按 Star 时间倒序排列。
 
 > 本区域由 GitHub Actions 自动生成，请勿手动编辑。
 
 | Star 日期 | 仓库 | 简介 | 语言 | Topics | License |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-19 | [Super-YYQ/ccswitch-linuxdo-importer](https://github.com/Super-YYQ/ccswitch-linuxdo-importer) | — | JavaScript | — | MIT |
 | 2026-07-19 | [glanderness/xhs-library](https://github.com/glanderness/xhs-library) | Codex skill for ingesting XHS notes into Feishu Base | Python | — | MIT |
 | 2026-07-19 | [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) | :electron: Another Mihomo GUI.  | TypeScript | `clash`, `clash-meta`, `electron`, `mihomo` | GPL-3.0 |
 | 2026-07-18 | [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 | Python | `china`, `indie`, `indie-developer` | — |

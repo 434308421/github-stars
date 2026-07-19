@@ -1,8 +1,20 @@
 {
   "schema_version": 1,
   "owner": "434308421",
-  "count": 358,
+  "count": 359,
   "stars": [
+    {
+      "repository_id": 1304193213,
+      "full_name": "Super-YYQ/ccswitch-linuxdo-importer",
+      "html_url": "https://github.com/Super-YYQ/ccswitch-linuxdo-importer",
+      "description": null,
+      "language": "JavaScript",
+      "topics": [],
+      "license": "MIT",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-19T08:44:46Z"
+    },
     {
       "repository_id": 1296294590,
       "full_name": "glanderness/xhs-library",
