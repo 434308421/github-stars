@@ -1,8 +1,38 @@
 {
   "schema_version": 1,
   "owner": "434308421",
-  "count": 364,
+  "count": 365,
   "stars": [
+    {
+      "repository_id": 1188421161,
+      "full_name": "openilink/openilink-hub",
+      "html_url": "https://github.com/openilink/openilink-hub",
+      "description": "开源微信 Bot 管理平台 + App 应用市场 | Self-hosted WeChat Bot Platform with App Marketplace | Lark · Slack · Discord · DingTalk · GitHub · Notion · 20+ Apps | AI Tools | 7 Language SDKs",
+      "language": "Go",
+      "topics": [
+        "ai-chatbot",
+        "ai-tools",
+        "app-marketplace",
+        "bot-management",
+        "chatbot",
+        "dingtalk",
+        "discord",
+        "golang",
+        "ilink",
+        "lark",
+        "notion",
+        "react",
+        "self-hosted",
+        "slack",
+        "webhook",
+        "wechat",
+        "wechat-bot"
+      ],
+      "license": "MIT",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-20T15:36:43Z"
+    },
     {
       "repository_id": 996076967,
       "full_name": "lxien/orbien",

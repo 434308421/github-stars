@@ -12,12 +12,13 @@ python -m py_compile scripts/sync_stars.py
 ```
 
 <!-- stars:start -->
-当前收录 **364** 个公开 Star 仓库，按 Star 时间倒序排列。
+当前收录 **365** 个公开 Star 仓库，按 Star 时间倒序排列。
 
 > 本区域由 GitHub Actions 自动生成，请勿手动编辑。
 
 | Star 日期 | 仓库 | 简介 | 语言 | Topics | License |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-20 | [openilink/openilink-hub](https://github.com/openilink/openilink-hub) | 开源微信 Bot 管理平台 + App 应用市场 \| Self-hosted WeChat Bot Platform with App Marketplace \| Lark · Slack · Discord · DingTalk · GitHub · Notion · 20+ Apps \| AI Tools \| 7 Language SDKs | Go | `ai-chatbot`, `ai-tools`, `app-marketplace`, `bot-management`, `chatbot`, `dingtalk`, `discord`, `golang`, `ilink`, `lark`, `notion`, `react`, `self-hosted`, `slack`, `webhook`, `wechat`, `wechat-bot` | MIT |
 | 2026-07-20 | [lxien/orbien](https://github.com/lxien/orbien) | Orbien 是一个内网穿透平台，支持TCP/HTTP/HTTPS/UDP/socks5/文件共享及上层协议代理，传输层支持TCP、Websocket、Quic，支持多路复用，满足弱网、防火墙穿透等场景；ACME域名证书申请部署以及自动续期、实时流量报文、压缩、mTLS传输加密、访问控制、鉴权认证、带宽限流、负载均衡、反向代理、身份认证、健康检查、管理面板等功能 | Java | `acme`, `expose`, `firewall`, `frp`, `graalvm`, `haproxy`, `http`, `https`, `java`, `nat`, `netty`, `ngrok`, `proxy`, `quic`, `socket5`, `tcp`, `tls`, `tunnel`, `udp`, `websocket` | Apache-2.0 |
 | 2026-07-20 | [Syngnat/GoNavi](https://github.com/Syngnat/GoNavi) | 现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。 | TypeScript | — | Apache-2.0 |
 | 2026-07-20 | [doudou770/flyreq-image-studio](https://github.com/doudou770/flyreq-image-studio) | 自托管的 AI 图像生成工作台 · 自定义模型 · 多模式 · PWA · 实时任务 支持Agent模式，工作台模式，无限画布，反推提示词，提示词广场，GIF生成。前后端任务机制轻量后端；三端兼容 UI：桌面端、平板端、移动端自适应布局 | TypeScript | `ai`, `flyreq`, `gpt-image-2`, `grok`, `grok-imagine`, `image-generation`, `pwa`, `self-hosted` | AGPL-3.0 |
