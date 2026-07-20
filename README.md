@@ -12,12 +12,13 @@ python -m py_compile scripts/sync_stars.py
 ```
 
 <!-- stars:start -->
-当前收录 **361** 个公开 Star 仓库，按 Star 时间倒序排列。
+当前收录 **362** 个公开 Star 仓库，按 Star 时间倒序排列。
 
 > 本区域由 GitHub Actions 自动生成，请勿手动编辑。
 
 | Star 日期 | 仓库 | 简介 | 语言 | Topics | License |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-20 | [doudou770/flyreq-image-studio](https://github.com/doudou770/flyreq-image-studio) | 自托管的 AI 图像生成工作台 · 自定义模型 · 多模式 · PWA · 实时任务 支持Agent模式，工作台模式，无限画布，反推提示词，提示词广场，GIF生成。前后端任务机制轻量后端；三端兼容 UI：桌面端、平板端、移动端自适应布局 | TypeScript | `ai`, `flyreq`, `gpt-image-2`, `grok`, `grok-imagine`, `image-generation`, `pwa`, `self-hosted` | AGPL-3.0 |
 | 2026-07-19 | [Kuddev/nebula](https://github.com/Kuddev/nebula) | — | Rust | — | GPL-3.0 |
 | 2026-07-19 | [vrxiaojie/xai-autoban](https://github.com/vrxiaojie/xai-autoban) | 用于自动隔离持续返回错误的 xAI OAuth 凭据，避免 CPA 在大号池中逐个重试无效账号而显著拉长首 token 时间 | Go | — | MIT |
 | 2026-07-19 | [Super-YYQ/ccswitch-linuxdo-importer](https://github.com/Super-YYQ/ccswitch-linuxdo-importer) | — | JavaScript | — | MIT |

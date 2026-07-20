@@ -1,8 +1,29 @@
 {
   "schema_version": 1,
   "owner": "434308421",
-  "count": 361,
+  "count": 362,
   "stars": [
+    {
+      "repository_id": 1284579907,
+      "full_name": "doudou770/flyreq-image-studio",
+      "html_url": "https://github.com/doudou770/flyreq-image-studio",
+      "description": "自托管的 AI 图像生成工作台 · 自定义模型 · 多模式 · PWA · 实时任务 支持Agent模式，工作台模式，无限画布，反推提示词，提示词广场，GIF生成。前后端任务机制轻量后端；三端兼容 UI：桌面端、平板端、移动端自适应布局",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "flyreq",
+        "gpt-image-2",
+        "grok",
+        "grok-imagine",
+        "image-generation",
+        "pwa",
+        "self-hosted"
+      ],
+      "license": "AGPL-3.0",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-20T03:12:58Z"
+    },
     {
       "repository_id": 1289958986,
       "full_name": "Kuddev/nebula",
