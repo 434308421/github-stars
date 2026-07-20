@@ -1,8 +1,41 @@
 {
   "schema_version": 1,
   "owner": "434308421",
-  "count": 363,
+  "count": 364,
   "stars": [
+    {
+      "repository_id": 996076967,
+      "full_name": "lxien/orbien",
+      "html_url": "https://github.com/lxien/orbien",
+      "description": "Orbien 是一个内网穿透平台，支持TCP/HTTP/HTTPS/UDP/socks5/文件共享及上层协议代理，传输层支持TCP、Websocket、Quic，支持多路复用，满足弱网、防火墙穿透等场景；ACME域名证书申请部署以及自动续期、实时流量报文、压缩、mTLS传输加密、访问控制、鉴权认证、带宽限流、负载均衡、反向代理、身份认证、健康检查、管理面板等功能",
+      "language": "Java",
+      "topics": [
+        "acme",
+        "expose",
+        "firewall",
+        "frp",
+        "graalvm",
+        "haproxy",
+        "http",
+        "https",
+        "java",
+        "nat",
+        "netty",
+        "ngrok",
+        "proxy",
+        "quic",
+        "socket5",
+        "tcp",
+        "tls",
+        "tunnel",
+        "udp",
+        "websocket"
+      ],
+      "license": "Apache-2.0",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-20T11:01:31Z"
+    },
     {
       "repository_id": 1146552776,
       "full_name": "Syngnat/GoNavi",
@@ -751,7 +784,7 @@
       "repository_id": 1230718069,
       "full_name": "chAng-L19/codex-redteam-mode",
       "html_url": "https://github.com/chAng-L19/codex-redteam-mode",
-      "description": "针对于红队攻击思维做出的red team模式(破限项目，封号概不负责）##可自行适配其他AI。项目问题请提issue",
+      "description": "针对于红队攻击思维做出的red team模式(破限项目，封号概不负责）##可自行适配其他Agent。项目问题请提issue",
       "language": "Python",
       "topics": [
         "ai",
