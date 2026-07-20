@@ -12,12 +12,13 @@ python -m py_compile scripts/sync_stars.py
 ```
 
 <!-- stars:start -->
-当前收录 **362** 个公开 Star 仓库，按 Star 时间倒序排列。
+当前收录 **363** 个公开 Star 仓库，按 Star 时间倒序排列。
 
 > 本区域由 GitHub Actions 自动生成，请勿手动编辑。
 
 | Star 日期 | 仓库 | 简介 | 语言 | Topics | License |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-20 | [Syngnat/GoNavi](https://github.com/Syngnat/GoNavi) | 现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。 | TypeScript | — | Apache-2.0 |
 | 2026-07-20 | [doudou770/flyreq-image-studio](https://github.com/doudou770/flyreq-image-studio) | 自托管的 AI 图像生成工作台 · 自定义模型 · 多模式 · PWA · 实时任务 支持Agent模式，工作台模式，无限画布，反推提示词，提示词广场，GIF生成。前后端任务机制轻量后端；三端兼容 UI：桌面端、平板端、移动端自适应布局 | TypeScript | `ai`, `flyreq`, `gpt-image-2`, `grok`, `grok-imagine`, `image-generation`, `pwa`, `self-hosted` | AGPL-3.0 |
 | 2026-07-19 | [Kuddev/nebula](https://github.com/Kuddev/nebula) | — | Rust | — | GPL-3.0 |
 | 2026-07-19 | [vrxiaojie/xai-autoban](https://github.com/vrxiaojie/xai-autoban) | 用于自动隔离持续返回错误的 xAI OAuth 凭据，避免 CPA 在大号池中逐个重试无效账号而显著拉长首 token 时间 | Go | — | MIT |
@@ -29,7 +30,7 @@ python -m py_compile scripts/sync_stars.py
 | 2026-07-17 | [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 500 AI Machine learning Deep learning Computer vision NLP Projects with code | — | `artificial-intelligence`, `artificial-intelligence-projects`, `awesome`, `computer-vision`, `computer-vision-project`, `data-science`, `deep-learning`, `deep-learning-project`, `machine-learning`, `machine-learning-projects`, `nlp`, `nlp-projects`, `python` | — |
 | 2026-07-17 | [oil-oil/codex-team-mode](https://github.com/oil-oil/codex-team-mode) | A Codex Skill for coordinating focused custom subagents across development, research, analysis, documents, data, and content work. | Python | `agent-skill`, `ai-agents`, `codex`, `developer-tools`, `subagents` | MIT |
 | 2026-07-17 | [emilkowalski/skills](https://github.com/emilkowalski/skills) | Skills for Design Engineers. | — | — | MIT |
-| 2026-07-17 | [inbjo/MirrorProxy](https://github.com/inbjo/MirrorProxy) | All-in-one mirror acceleration | Rust | — | MIT |
+| 2026-07-17 | [inbjo/MirrorProxy](https://github.com/inbjo/MirrorProxy) | All-in-one mirror acceleration,The project uses an adapter-based proxy core and already ships adapters for GitHub, Docker/OCI, Composer, npm, PyPI, Cargo, Go modules, major language repositories, developer-tool distribution services, and operating system mirrors.  | Rust | `mirror`, `proxy`, `rust`, `self-hosted` | MIT |
 | 2026-07-17 | [huanyingtianhe/agents-chat](https://github.com/huanyingtianhe/agents-chat) | An open-source AI agent platform for orchestrating, and collaborating with multiple AI agents. Connect seamlessly to GitHub Copilot CLI, Claude Code, Codex, and any ACP-compatible agent. | TypeScript | `agentic-ai`, `ai`, `ai-agents` | — |
 | 2026-07-17 | [xintaofei/codeg](https://github.com/xintaofei/codeg) | Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, OpenCode, Pi, Grok Build, etc. Desktop app, self-hosted server, or Docker. | TypeScript | `acp`, `agent`, `claude-code`, `cline`, `code-generation`, `codebuddy`, `codex`, `gemini-cli`, `grok-build`, `gui`, `hermes-agent`, `kimi-code`, `openclaw`, `opencode`, `pi`, `worktree` | Apache-2.0 |
 | 2026-07-17 | [RyensX/OpenCodex](https://github.com/RyensX/OpenCodex) | OpenCodex is a middleware layer for Codex Desktop. It lets you use a phone, tablet, or another computer to access and operate Codex on a target machine through a browser, making it suitable for continuous AI Coding in LAN or remote LAN environments. | JavaScript | — | AGPL-3.0 |

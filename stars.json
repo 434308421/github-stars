@@ -1,8 +1,20 @@
 {
   "schema_version": 1,
   "owner": "434308421",
-  "count": 362,
+  "count": 363,
   "stars": [
+    {
+      "repository_id": 1146552776,
+      "full_name": "Syngnat/GoNavi",
+      "html_url": "https://github.com/Syngnat/GoNavi",
+      "description": "现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。",
+      "language": "TypeScript",
+      "topics": [],
+      "license": "Apache-2.0",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-20T05:12:46Z"
+    },
     {
       "repository_id": 1284579907,
       "full_name": "doudou770/flyreq-image-studio",
@@ -177,9 +189,14 @@
       "repository_id": 1301251513,
       "full_name": "inbjo/MirrorProxy",
       "html_url": "https://github.com/inbjo/MirrorProxy",
-      "description": "All-in-one mirror acceleration",
+      "description": "All-in-one mirror acceleration,The project uses an adapter-based proxy core and already ships adapters for GitHub, Docker/OCI, Composer, npm, PyPI, Cargo, Go modules, major language repositories, developer-tool distribution services, and operating system mirrors. ",
       "language": "Rust",
-      "topics": [],
+      "topics": [
+        "mirror",
+        "proxy",
+        "rust",
+        "self-hosted"
+      ],
       "license": "MIT",
       "archived": false,
       "fork": false,
