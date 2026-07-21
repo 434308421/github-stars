@@ -70,7 +70,7 @@
       "repository_id": 1146552776,
       "full_name": "Syngnat/GoNavi",
       "html_url": "https://github.com/Syngnat/GoNavi",
-      "description": "现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。",
+      "description": "原生轻量数据库客户端（Go + Wails + React，~30MB）：SQL/缓存/向量/消息/国产库，内置 AI 与 MCP，告别 Electron。 | Native multi-data-source DB client — ~30MB, AI & MCP ready. Not Electron.",
       "language": "TypeScript",
       "topics": [],
       "license": "Apache-2.0",
@@ -911,7 +911,7 @@
       "repository_id": 1183888342,
       "full_name": "stablyai/orca",
       "html_url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "language": "TypeScript",
       "topics": [
         "ade",
@@ -5479,8 +5479,8 @@
     },
     {
       "repository_id": 259586820,
-      "full_name": "moch1ce/BilibiliPicBed",
-      "html_url": "https://github.com/moch1ce/BilibiliPicBed",
+      "full_name": "Moch1ce/BilibiliPicBed",
+      "html_url": "https://github.com/Moch1ce/BilibiliPicBed",
       "description": "bilibili 图床",
       "language": "JavaScript",
       "topics": [],
