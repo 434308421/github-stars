@@ -1264,7 +1264,7 @@
       "repository_id": 812303359,
       "full_name": "dqzboy/Docker-Proxy",
       "html_url": "https://github.com/dqzboy/Docker-Proxy",
-      "description": "🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\\管理服务。支持免服务器部署到 ClawCloud\\Render\\Koyeb",
+      "description": "🔥 🔥 🔥 自建Docker镜像加速服务，一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\\管理服务。Web后台轻松管理上游代理。",
       "language": "JavaScript",
       "topics": [
         "docker-proxy",
