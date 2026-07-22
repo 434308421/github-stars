@@ -12,12 +12,13 @@ python -m py_compile scripts/sync_stars.py
 ```
 
 <!-- stars:start -->
-当前收录 **374** 个公开 Star 仓库，按 Star 时间倒序排列。
+当前收录 **375** 个公开 Star 仓库，按 Star 时间倒序排列。
 
 > 本区域由 GitHub Actions 自动生成，请勿手动编辑。
 
 | Star 日期 | 仓库 | 简介 | 语言 | Topics | License |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-22 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io | Rust | `ai-tools`, `claude-code`, `codex`, `desktop-app`, `grok`, `grokbuild`, `hermes`, `hermes-agent`, `mcp`, `open-source`, `openclaw`, `openclaw-ui`, `opencode`, `provider-management`, `rust`, `skills`, `skills-management`, `tauri`, `typescript`, `wsl-support` | MIT |
 | 2026-07-21 | [MrsEWE44/musicDownload](https://github.com/MrsEWE44/musicDownload) | — | Python | — | — |
 | 2026-07-21 | [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) | ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展 | TypeScript | `chrome-extension`, `greasemonkey-userscript`, `scriptcat`, `userscript`, `webextension` | GPL-3.0 |
 | 2026-07-21 | [tutti-os/tutti](https://github.com/tutti-os/tutti) | Where people and agents build in tune. | TypeScript | — | Apache-2.0 |
@@ -57,7 +58,7 @@ python -m py_compile scripts/sync_stars.py
 | 2026-07-13 | [charleslee8266/cardnav-web](https://github.com/charleslee8266/cardnav-web) | 卡网大全：一站式 AI 大模型账号购买导航。聚合 AI 中转站、卡网、官方订阅比价，还有模型排行、使用指南、实用工具，帮你少踩坑，少花钱。 | TypeScript | `ai`, `claude`, `codex`, `cursor`, `gemini`, `gpt`, `llm` | AGPL-3.0 |
 | 2026-07-13 | [chenyme/grok2api](https://github.com/chenyme/grok2api) | Multi-account API gateway for Grok Build, Grok Web, and Grok Console | Go | `grok`, `grok-build`, `grok-console`, `grok-imagine`, `grok-video`, `grok-web` | MIT |
 | 2026-07-13 | [ht426/skillseed](https://github.com/ht426/skillseed) | 一个 skill 工厂 —— 脚手架、触发校验、自我进化。基于 Agent Skills 开放标准。 | Shell | — | MIT |
-| 2026-07-13 | [iebb/mithka](https://github.com/iebb/mithka) | A Telegram client, but déjà vu | Dart | — | — |
+| 2026-07-13 | [iebb/mithka](https://github.com/iebb/mithka) | A Telegram client, but déjà vu | Dart | — | BSD-3-Clause |
 | 2026-07-13 | [Re0XIAOPA/AutoScrapeFreeNodes](https://github.com/Re0XIAOPA/AutoScrapeFreeNodes) | AutoScrapeFreeNodes - 自动抓取免费节点 | JavaScript | — | GPL-3.0 |
 | 2026-07-13 | [alexazhou/gt_ai_gateway](https://github.com/alexazhou/gt_ai_gateway) | 轻量高性能 AI 网关，支持协议转换和请求可视化，以及缓存优化功能。并可以运行在 Serverless、Docker 和桌面端环境 | TypeScript | — | Other |
 | 2026-07-13 | [decolua/9router](https://github.com/decolua/9router) | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. | JavaScript | `ai-agents`, `ai-gateway`, `anthropic`, `chatgpt`, `claude`, `claude-code`, `cline`, `codex`, `copilot`, `cursor`, `deepseek`, `free-ai`, `gemini`, `gemini-cli`, `llm`, `llm-gateway`, `openai`, `openai-proxy`, `qwen`, `token-saver` | MIT |
@@ -205,7 +206,7 @@ python -m py_compile scripts/sync_stars.py
 | 2026-04-20 | [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) | All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus advanced channel management \| 一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板、自动签到、密钥一键使用、价格对比、可用性测试，另提供高级渠道管理 | TypeScript | `ai`, `cc-switch`, `chatgpt`, `chatgpt-api`, `cherrystudio`, `claude`, `claude-code`, `cliproxyapi`, `codex`, `new-api`, `newapi`, `one-api`, `openai`, `sub2api`, `voapi` | AGPL-3.0 |
 | 2026-04-20 | [jlwebs/AllApiDeck](https://github.com/jlwebs/AllApiDeck) | All LLM provider API in one, A desktop deck and key management workspace with smart proxy | Vue | — | Apache-2.0 |
 | 2026-04-19 | [kzbkzb/Python-AI](https://github.com/kzbkzb/Python-AI) | 深度学习100例、深度学习DL、图片分类、目标识别、目标检测、自然语言处理nlp、文本分类、TensorFlow、PyTorch | Jupyter Notebook | `cv`, `dl`, `ml`, `nlp`, `python`, `python3`, `pytorch`, `tensorflow2` | — |
-| 2026-04-19 | [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha) | Claude Code 泄露源码 - 本地可运行版本，新增跨平台桌面端软件补齐Computer Use（附带核心模块解析） | TypeScript | — | Other |
+| 2026-04-19 | [NanmiCoder/cc-haha](https://github.com/NanmiCoder/cc-haha) | 本地优先的跨平台 Claude Code /  Agent 桌面工作台：多 Agent、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、任务感知桌面宠物，并支持微信、飞书、钉钉、Telegram、WhatsApp 与 H5 访问。 | TypeScript | — | Other |
 | 2026-04-18 | [ycccccccy/echotrace](https://github.com/ycccccccy/echotrace) | EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 \| EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records | — | `annual-reports`, `chat-history`, `data-analysis`, `data-visualization`, `wechat` | MIT |
 | 2026-04-18 | [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) | WeFlow - 一个本地的微信聊天记录导出和年度报告应用 | — | `annual-report`, `data-analysis`, `data-visualization`, `message`, `wechat` | — |
 | 2026-04-18 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI \| Customize your assistants \| Star if you like it! | TypeScript | `acp`, `agent-team`, `ai`, `ai-agent`, `chat`, `chatbot`, `claude-code`, `clawdbot`, `codex`, `cowork`, `gemini`, `gemini-cli`, `hermes`, `llm`, `nano-banana`, `office`, `openclaw`, `opencode`, `skills`, `webui` | Apache-2.0 |
