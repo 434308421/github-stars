@@ -268,7 +268,7 @@
       "repository_id": 1146552776,
       "full_name": "Syngnat/GoNavi",
       "html_url": "https://github.com/Syngnat/GoNavi",
-      "description": "原生轻量数据库客户端（Go + Wails + React，~30MB）：SQL/缓存/向量/消息/国产库，内置 AI 与 MCP，告别 Electron。 | Native multi-data-source DB client — ~30MB, AI & MCP ready. Not Electron.",
+      "description": "Native multi-data-source DB client — ~30MB, AI & MCP ready. Not Electron. 丨原生轻量数据库客户端（Go + Wails + React，~30MB）：SQL/缓存/向量/消息/国产库，内置 AI 与 MCP，告别 Electron。 ",
       "language": "TypeScript",
       "topics": [],
       "license": "Apache-2.0",
@@ -1140,7 +1140,7 @@
       "repository_id": 1241362619,
       "full_name": "seakee/CPA-Manager-Plus",
       "html_url": "https://github.com/seakee/CPA-Manager-Plus",
-      "description": "A self-hosted CPA / CLIProxyAPI management panel and observability dashboard for requests, usage, cost, quota, failures, and account health.",
+      "description": "A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health.",
       "language": "TypeScript",
       "topics": [
         "ai-gateway",
