@@ -12,12 +12,13 @@ python -m py_compile scripts/sync_stars.py
 ```
 
 <!-- stars:start -->
-当前收录 **380** 个公开 Star 仓库，按 Star 时间倒序排列。
+当前收录 **381** 个公开 Star 仓库，按 Star 时间倒序排列。
 
 > 本区域由 GitHub Actions 自动生成，请勿手动编辑。
 
 | Star 日期 | 仓库 | 简介 | 语言 | Topics | License |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-23 | [bytedoger/awesome-OpenPrice](https://github.com/bytedoger/awesome-OpenPrice) | open price ,一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格 | TypeScript | `ai`, `ai-subscription`, `chatgpt`, `claude`, `codex`, `cursor`, `gemini`, `grok`, `ldxp`, `price-comparison`, `sd2` | Other |
 | 2026-07-23 | [xichan96/dinotty](https://github.com/xichan96/dinotty) | Multi-device terminal server for AI coding agents. Server-side VTE, session persistence, file browser, web preview, plugin system. Self-hosted. | Rust | `ai-coding`, `axum`, `claude-code`, `codex`, `coding-agent`, `mobile-coding`, `pty`, `remote-terminal`, `rust`, `session-persistence`, `terminal`, `tmux-alternative`, `vue3`, `web-terminal`, `xterm` | MIT |
 | 2026-07-23 | [gbulog/pcairplay](https://github.com/gbulog/pcairplay) | Mirror an iPhone to a Windows PC using native iOS Screen Mirroring - no app on the phone. PowerShell glue around the UxPlay AirPlay receiver: installer, firewall, diagnostics, desktop UI, iPhone-style framed view. | PowerShell | — | MIT |
 | 2026-07-23 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. | Swift | `amp`, `claude-code`, `cli`, `codex`, `coding-agents`, `gemini`, `ghostty`, `macos`, `multiplexer`, `multitasking`, `opencode`, `organization`, `parallel-agents`, `programmability`, `terminal`, `terminal-multiplexer`, `tmux`, `workspace-manager` | Other |
