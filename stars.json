@@ -212,7 +212,7 @@
       "repository_id": 1157102282,
       "full_name": "diegosouzapw/OmniRoute",
       "html_url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
       "topics": [
         "a2a",
@@ -308,7 +308,7 @@
       "repository_id": 996076967,
       "full_name": "lxien/orbien",
       "html_url": "https://github.com/lxien/orbien",
-      "description": "Orbien 是一个内网穿透平台，支持TCP/HTTP/HTTPS/UDP/socks5/文件共享及上层协议代理，传输层支持TCP、Websocket、Quic，支持多路复用，满足弱网、防火墙穿透等场景；ACME域名证书申请部署以及自动续期、实时流量报文、压缩、mTLS传输加密、访问控制、鉴权认证、带宽限流、负载均衡、反向代理、身份认证、健康检查、管理面板等功能",
+      "description": "Orbien 是一个内网穿透平台，支持TCP/HTTP/HTTPS/UDP/socks5/文件共享及上层协议代理，传输层支持TCP、Websocket、Quic，支持多路复用，满足弱网、防火墙穿透等场景；ACME域名证书申请部署以及自动续期、HTTP(S)抓包与请求重放、压缩、mTLS传输加密、访问控制、鉴权认证、带宽限流、负载均衡、反向代理、身份认证、健康检查、管理面板等功能",
       "language": "Java",
       "topics": [
         "acme",
