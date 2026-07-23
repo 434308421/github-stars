@@ -1,8 +1,36 @@
 {
   "schema_version": 1,
   "owner": "434308421",
-  "count": 379,
+  "count": 380,
   "stars": [
+    {
+      "repository_id": 1236490395,
+      "full_name": "xichan96/dinotty",
+      "html_url": "https://github.com/xichan96/dinotty",
+      "description": "Multi-device terminal server for AI coding agents. Server-side VTE, session persistence, file browser, web preview, plugin system. Self-hosted.",
+      "language": "TypeScript",
+      "topics": [
+        "ai-coding",
+        "axum",
+        "claude-code",
+        "codex",
+        "coding-agent",
+        "mobile-coding",
+        "pty",
+        "remote-terminal",
+        "rust",
+        "session-persistence",
+        "terminal",
+        "tmux-alternative",
+        "vue3",
+        "web-terminal",
+        "xterm"
+      ],
+      "license": "MIT",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-23T10:48:46Z"
+    },
     {
       "repository_id": 1306692372,
       "full_name": "gbulog/pcairplay",
