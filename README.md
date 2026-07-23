@@ -12,12 +12,14 @@ python -m py_compile scripts/sync_stars.py
 ```
 
 <!-- stars:start -->
-当前收录 **375** 个公开 Star 仓库，按 Star 时间倒序排列。
+当前收录 **377** 个公开 Star 仓库，按 Star 时间倒序排列。
 
 > 本区域由 GitHub Actions 自动生成，请勿手动编辑。
 
 | Star 日期 | 仓库 | 简介 | 语言 | Topics | License |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-23 | [VirtualHotBar/NetMount](https://github.com/VirtualHotBar/NetMount) | 统一管理和挂载云存储设施/Unified management and mounting of cloud storage facilities | TypeScript | — | AGPL-3.0 |
+| 2026-07-23 | [looplj/axonhub](https://github.com/looplj/axonhub) | ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control &amp; end-to-end tracing. | Go | `agent`, `agents`, `ai`, `anthropic`, `anthropic-api`, `api-gateway`, `claude`, `claude-code`, `codex`, `cost-management`, `deepseek`, `gemini-api`, `llm`, `openai`, `opencode` | Other |
 | 2026-07-22 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io | Rust | `ai-tools`, `claude-code`, `codex`, `desktop-app`, `grok`, `grokbuild`, `hermes`, `hermes-agent`, `mcp`, `open-source`, `openclaw`, `openclaw-ui`, `opencode`, `provider-management`, `rust`, `skills`, `skills-management`, `tauri`, `typescript`, `wsl-support` | MIT |
 | 2026-07-21 | [MrsEWE44/musicDownload](https://github.com/MrsEWE44/musicDownload) | — | Python | — | — |
 | 2026-07-21 | [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) | ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展 | TypeScript | `chrome-extension`, `greasemonkey-userscript`, `scriptcat`, `userscript`, `webextension` | GPL-3.0 |

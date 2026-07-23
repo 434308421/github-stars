@@ -1,8 +1,48 @@
 {
   "schema_version": 1,
   "owner": "434308421",
-  "count": 375,
+  "count": 377,
   "stars": [
+    {
+      "repository_id": 774343784,
+      "full_name": "VirtualHotBar/NetMount",
+      "html_url": "https://github.com/VirtualHotBar/NetMount",
+      "description": "统一管理和挂载云存储设施/Unified management and mounting of cloud storage facilities",
+      "language": "TypeScript",
+      "topics": [],
+      "license": "AGPL-3.0",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-23T02:13:54Z"
+    },
+    {
+      "repository_id": 1053598893,
+      "full_name": "looplj/axonhub",
+      "html_url": "https://github.com/looplj/axonhub",
+      "description": "⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.",
+      "language": "Go",
+      "topics": [
+        "agent",
+        "agents",
+        "ai",
+        "anthropic",
+        "anthropic-api",
+        "api-gateway",
+        "claude",
+        "claude-code",
+        "codex",
+        "cost-management",
+        "deepseek",
+        "gemini-api",
+        "llm",
+        "openai",
+        "opencode"
+      ],
+      "license": "Other",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-23T00:39:22Z"
+    },
     {
       "repository_id": 1031912724,
       "full_name": "farion1231/cc-switch",
