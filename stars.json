@@ -8,7 +8,7 @@
       "full_name": "xichan96/dinotty",
       "html_url": "https://github.com/xichan96/dinotty",
       "description": "Multi-device terminal server for AI coding agents. Server-side VTE, session persistence, file browser, web preview, plugin system. Self-hosted.",
-      "language": "TypeScript",
+      "language": "Rust",
       "topics": [
         "ai-coding",
         "axum",
