@@ -12,12 +12,14 @@ python -m py_compile scripts/sync_stars.py
 ```
 
 <!-- stars:start -->
-当前收录 **377** 个公开 Star 仓库，按 Star 时间倒序排列。
+当前收录 **379** 个公开 Star 仓库，按 Star 时间倒序排列。
 
 > 本区域由 GitHub Actions 自动生成，请勿手动编辑。
 
 | Star 日期 | 仓库 | 简介 | 语言 | Topics | License |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-23 | [gbulog/pcairplay](https://github.com/gbulog/pcairplay) | Mirror an iPhone to a Windows PC using native iOS Screen Mirroring - no app on the phone. PowerShell glue around the UxPlay AirPlay receiver: installer, firewall, diagnostics, desktop UI, iPhone-style framed view. | PowerShell | — | MIT |
+| 2026-07-23 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. | Swift | `amp`, `claude-code`, `cli`, `codex`, `coding-agents`, `gemini`, `ghostty`, `macos`, `multiplexer`, `multitasking`, `opencode`, `organization`, `parallel-agents`, `programmability`, `terminal`, `terminal-multiplexer`, `tmux`, `workspace-manager` | Other |
 | 2026-07-23 | [VirtualHotBar/NetMount](https://github.com/VirtualHotBar/NetMount) | 统一管理和挂载云存储设施/Unified management and mounting of cloud storage facilities | TypeScript | — | AGPL-3.0 |
 | 2026-07-23 | [looplj/axonhub](https://github.com/looplj/axonhub) | ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control &amp; end-to-end tracing. | Go | `agent`, `agents`, `ai`, `anthropic`, `anthropic-api`, `api-gateway`, `claude`, `claude-code`, `codex`, `cost-management`, `deepseek`, `gemini-api`, `llm`, `openai`, `opencode` | Other |
 | 2026-07-22 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io | Rust | `ai-tools`, `claude-code`, `codex`, `desktop-app`, `grok`, `grokbuild`, `hermes`, `hermes-agent`, `mcp`, `open-source`, `openclaw`, `openclaw-ui`, `opencode`, `provider-management`, `rust`, `skills`, `skills-management`, `tauri`, `typescript`, `wsl-support` | MIT |

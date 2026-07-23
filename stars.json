@@ -1,8 +1,51 @@
 {
   "schema_version": 1,
   "owner": "434308421",
-  "count": 377,
+  "count": 379,
   "stars": [
+    {
+      "repository_id": 1306692372,
+      "full_name": "gbulog/pcairplay",
+      "html_url": "https://github.com/gbulog/pcairplay",
+      "description": "Mirror an iPhone to a Windows PC using native iOS Screen Mirroring - no app on the phone. PowerShell glue around the UxPlay AirPlay receiver: installer, firewall, diagnostics, desktop UI, iPhone-style framed view.",
+      "language": "PowerShell",
+      "topics": [],
+      "license": "MIT",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-23T07:23:18Z"
+    },
+    {
+      "repository_id": 1144115288,
+      "full_name": "manaflow-ai/cmux",
+      "html_url": "https://github.com/manaflow-ai/cmux",
+      "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+      "language": "Swift",
+      "topics": [
+        "amp",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agents",
+        "gemini",
+        "ghostty",
+        "macos",
+        "multiplexer",
+        "multitasking",
+        "opencode",
+        "organization",
+        "parallel-agents",
+        "programmability",
+        "terminal",
+        "terminal-multiplexer",
+        "tmux",
+        "workspace-manager"
+      ],
+      "license": "Other",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-23T06:42:43Z"
+    },
     {
       "repository_id": 774343784,
       "full_name": "VirtualHotBar/NetMount",
