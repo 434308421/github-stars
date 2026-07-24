@@ -1,8 +1,20 @@
 {
   "schema_version": 1,
   "owner": "434308421",
-  "count": 381,
+  "count": 382,
   "stars": [
+    {
+      "repository_id": 1280218441,
+      "full_name": "NotoChen/BalanceHub",
+      "html_url": "https://github.com/NotoChen/BalanceHub",
+      "description": null,
+      "language": "Rust",
+      "topics": [],
+      "license": "Other",
+      "archived": false,
+      "fork": false,
+      "starred_at": "2026-07-24T13:07:45Z"
+    },
     {
       "repository_id": 1302409680,
       "full_name": "bytedoger/awesome-OpenPrice",
