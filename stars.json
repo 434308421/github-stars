@@ -1024,7 +1024,7 @@
       "repository_id": 1179821669,
       "full_name": "dark-hxx/CLI-Manager",
       "html_url": "https://github.com/dark-hxx/CLI-Manager",
-      "description": "CLI-Manager: 用于集中管理基于CLI 的多个开发项目，解决多窗口切换、重复输入命令的痛点，提升开发工作流效率。",
+      "description": "A multi-project AI CLI workspace for local terminals, SSH hosts, and mobile-assisted workflows",
       "language": "TypeScript",
       "topics": [],
       "license": "AGPL-3.0",
